@@ -9,7 +9,10 @@ Bisa download Wireshark
 
 ## Lampiran
 Hasil:
-![Hasil Percobaan](../assets/image/tampilanawalwireshark.png)
+![Tampilan Awal Wireshark](../assets/image/tampilanawalwireshark.png)
+![Week 1](../assets/image/week1.png)
+![Filter HTTP](../assets/image/http.png)
+![Website](../assets/image/web.png)
 
 
 
