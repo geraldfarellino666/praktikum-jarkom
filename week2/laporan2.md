@@ -21,15 +21,15 @@ Dapat menginvestigasi cara kerja protokol HTTP menggunakan Wireshark.
 1. Jalankan browser dan pastikan sudah menghapus history browser
 2. Buka wireshark dan ketik http di bagian filter
 3. Masukkan link (http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file3.html) ke browser
-![Filter Wireshark](//assets/image/3.3%20(1).png)
-![Link 3.3](//assets/image/3.3%20(2).png)
+![Filter Wireshark](..//assets/image/3.3%20(1).png)
+![Link 3.3](..//assets/image/3.3%20(2).png)
 
 ## 3.4 HTML dengan embedded objects
 1. Jalankan browser dan pastikan sudah menghapus history browser
 2. Buka wireshark dan ketik http di bagian filter
 3. Masukkan link (http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file4.html)
-![Filter Wireshark](//assets/image/3.4%20(1).png)
-![Link 3.4](//assets/image/3.4%20(2).png)
+![Filter Wireshark](..//assets/image/3.4%20(1).png)
+![Link 3.4](..//assets/image/3.4%20(2).png)
 
 ## 3.5 HTTP Authentication
 1. Jalankan browser dan pastikan sudah menghapus history browser
