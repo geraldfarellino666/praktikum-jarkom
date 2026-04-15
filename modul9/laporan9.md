@@ -6,7 +6,7 @@ Mahasiswa bisa membuat program web server sederhana berbasis TCP socket programm
 ## Kode Sambung ke server menggunakan Python
 ![Kode Python](../assets/image/code_py_modul9.png)
 
-## Kode untuk menampilkan di website menggunakan HTMK
+## Kode untuk menampilkan di website menggunakan HTML
 ![Kode HTML](../assets/image/code_html_modul9.png)
 
 ## Terminal saat di run
