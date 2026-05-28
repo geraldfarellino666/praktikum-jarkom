@@ -15,13 +15,12 @@ Mahasiswa dapat menginvestigasi cara kerja protokol TCP menggunakan Wireshark
 Berdasarkan capture, parameter identitas koneksi adalah:
 - Client IP: 192.168.0.170 (Port: 59805)
 - Server IP: 128.119.245.12 (Port: 443 / HTTPS)
+
 ![Gambar 2](../assets/image/gambar%202%20week%206.png)
-| Field  | Nilai |
-|----------|----------|
-| Sequence Number   | 0 (relative)   | 
-| Flags  | SYN   |
-| MSS  | 1460 bytes   |
-| Window Scale  | x256   |
+Sequence Number: 0 (relative)
+Flags: SYN
+MSS: 1460 bytes   
+Window Scale: x256
 
 
 
