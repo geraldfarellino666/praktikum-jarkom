@@ -26,6 +26,7 @@ while True:
 message, clientAddress = serverSocket.recvfrom(2048)
 modifiedMessage = message.decode().upper()
 serverSocket.sendto(modifiedMessage.encode(), clientAddress)
+```
 
 **Penjelasan Alur Program**
 - Inisialisasi: Server membuat socket dengan tipe SOCK_DGRAM (UDP) dan melakukan bind ke port 12000.
@@ -48,3 +49,4 @@ modifiedMessage, serverAddress = clientSocket.recvfrom(2048)
 print(modifiedMessage.decode())
 
 clientSocket.close()
+```
